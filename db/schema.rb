@@ -127,6 +127,7 @@ ActiveRecord::Schema.define(version: 2020_12_14_232153) do
     t.string "uid"
     t.string "name"
     t.string "username"
+    t.string "company_name"
     t.string "email"
     t.string "social_uid"
     t.string "image"
